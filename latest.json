@@ -1,0 +1,23 @@
+{
+  "version": "0.3.72",
+  "notes": "Release 0.3.72",
+  "pub_date": "2025-01-11T10:58:50Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "",
+      "url": "https://github.com/nsrtechinc/smartfolderagent/releases/download/v0.3.72/smart-folder-agent_0.3.72_x64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "",
+      "url": "https://github.com/nsrtechinc/smartfolderagent/releases/download/v0.3.72/smart-folder-agent_0.3.72_aarch64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "",
+      "url": "https://github.com/nsrtechinc/smartfolderagent/releases/download/v0.3.72/smart-folder-agent_0.3.72_amd64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/nsrtechinc/smartfolderagent/releases/download/v0.3.72/smart-folder-agent_0.3.72_x64_en-US.msi.zip"
+    }
+  }
+}
