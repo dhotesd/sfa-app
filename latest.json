@@ -13,7 +13,7 @@
     },
     "linux-x86_64": {
       "signature": "",
-      "url": "https://github.com/nsrtechinc/smartfolderagent/releases/download/v0.3.99/smart-folder-agent_0.3.99_amd64.AppImage.tar.gz"
+      "url": "https://github.com/nsrtechinc/smartfolderagent/releases/download/v0.3.87/smart-folder-agent_0.3.87_amd64.deb"
     },
     "windows-x86_64": {
       "signature": "",
